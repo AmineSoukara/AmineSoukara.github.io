@@ -206,7 +206,7 @@
   }
   .article-content-first {
     padding: 20px;
-    color: $sun;
+    color: $text;
     .article-tag {
       .tag {
         font-size: 12px;
@@ -215,7 +215,7 @@
     .article-date {
       .date {
         font-size: 12px;
-        color: rgba($dark, .8);
+        color: rgba($text, .8);
       }
     }
     .article-title {
@@ -224,7 +224,7 @@
       line-height: 30px;
       font-weight: normal;
       a {
-        color: $sun;
+        color: $text;
         transition: $global-transition;
       }
     }
@@ -305,7 +305,7 @@
       font-size: 110px;
       text-align: center;
       letter-spacing: 2px;
-      color: $sun;
+      color: $text;
       transform: translate(-50%,-50%);
       transition: all 0.4s ease 0.3s;
       opacity: 0;
@@ -320,7 +320,7 @@
       margin-bottom: 5px;
       .article-date {
         font-size: 12px;
-        color: rgba($dark, .8);
+        color: rgba($text, .8);
       }
       .article-tag {
         .tag {
@@ -349,7 +349,7 @@
       margin-bottom: 5px;
       a {
         font-size: 24px;
-        color: $sun;
+        color: $text;
       }
     }
     .article-excerpt {
