@@ -94,7 +94,7 @@
       font-weight: 700;
       a {
         font-size: 18px;
-        color: $text;
+        color: $dark;
       }
     }
     .recent-date {
@@ -231,7 +231,7 @@
       padding: 5px 15px;
       font-size: 12px;
       border-radius: $global-radius;
-      color: $text;
+      color: $dark;
       background: $blue-black;
       &:hover {
         color: $white;
