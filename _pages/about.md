@@ -1,24 +1,70 @@
 ---
 layout: page
 title: About
-image: 08.jpg
+image: logo.png
 permalink: /about/
 ---
 
-My name is Natali Anderson. I'm an actress. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+<h1 align="center"> DAMIEN SOUKARA! </h1> 
+<p align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&title=Profile%20Views">
+</p>
+<a href="https://AmineSoukara.github.io"><img src="https://i.imgur.com/07aPB5A.jpg"></a>
 
-#### Austin scenester...
-<small>2008 - 2017</small>
+- My Name is Amine Soukara, U Can Call Me DAMIEN 👾
+- I'm an English student at Sidi Mohamed Ben Abdellah 🏫
+- Born and live in Morocco 🇲🇦
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+<details>
+  <summary>Some Interesting Facts About Me!</summary>
+  
+  - Ta Qlwa Gha Kmel Tri9k Bla Mt9ra 😄 
+  
+  - Makla N3as, Github Games 🎮
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+  - Listening To Music While Coding, And Developing Useful Codes. ⭐️
+  
+  - Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Sci-Fi, History book 📚
+</details>
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+![RUN](https://github.com/AmineSoukara/AmineSoukara/raw/master/dino.gif) 
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+<hr>
+<h3 align="center">Languages & Tools</h3>
+<p align="center"><i>As a student, i always want to study more and more. Don't hesitate to give me your knowledge!</i></p>
+<p align="center">
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+</p>
+<p align="center">
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code> 
+</p>
+<p align="center">
+</p>
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+![Amine's github stats](https://github-readme-stats.vercel.app/api?username=AmineSoukara&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+<h3 align="center">Social Media</h3>
+<p align="center"><i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i></p>
+<p align="center">
+<a href="https://instagram.com/AmineSoukara" alt="Instagram"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/network.svg"></a>
+<a href="https://telegram.me/AmineSoukara" alt="Telegram"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/telegram.svg"></a>
+<a href="https://twitter.com/AmineSoukara" alt="Twitter"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/twitter.svg"></a>
+<a href="https://www.facebook.com/altysoukara" alt="Facebook"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/facebook.svg"></a>
+<a href="https://github.com/AmineSoukara" alt="Github"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/github.svg"></a>
+</p>
+
+<hr>
+<h2 align="center">©️ Damien Soukara</h2>
+<p align="center"><b><i>"Боль неизбежна. Страдание необязательно"</i></b></p>
+<p align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&title=Profile%20Views">
+</p>
