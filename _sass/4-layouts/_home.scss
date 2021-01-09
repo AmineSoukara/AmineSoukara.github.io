@@ -330,7 +330,7 @@
           font-size: 12px;
           line-height: 18px;
           font-weight: bold;
-          border: 1px solid $primary-color;
+          border: 1px solid $blue-darken;
           border-radius: $global-radius;
           text-transform: capitalize;
           color: $primary-color;
@@ -339,7 +339,7 @@
             margin-right: 0;
           }
           &:hover {
-            background: $primary-color;
+            background: $blue-darken;
             color: $white;
           }
         }
