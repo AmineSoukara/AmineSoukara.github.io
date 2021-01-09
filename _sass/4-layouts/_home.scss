@@ -206,7 +206,7 @@
   }
   .article-content-first {
     padding: 20px;
-    color: $text;
+    color: $sun;
     .article-tag {
       .tag {
         font-size: 12px;
@@ -320,7 +320,7 @@
       margin-bottom: 5px;
       .article-date {
         font-size: 12px;
-        color: rgba($text, .8);
+        color: rgba($sun, .8);
       }
       .article-tag {
         .tag {
@@ -349,7 +349,7 @@
       margin-bottom: 5px;
       a {
         font-size: 24px;
-        color: $text;
+        color: $sun;
       }
     }
     .article-excerpt {
