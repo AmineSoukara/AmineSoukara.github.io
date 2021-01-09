@@ -224,7 +224,7 @@
       line-height: 30px;
       font-weight: normal;
       a {
-        color: $text;
+        color: $dark;
         transition: $global-transition;
       }
     }
@@ -349,7 +349,7 @@
       margin-bottom: 5px;
       a {
         font-size: 24px;
-        color: $text;
+        color: $dark;
       }
     }
     .article-excerpt {
