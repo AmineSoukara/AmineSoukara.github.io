@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  The most popular mistakes
-date:   2018-08-23 16:05:55 +0300
-image:  01.jpg
-tags:   [Lifehacks]
+title:  Damien Soukara
+date:   2021-02-17 17:38:00 +0300
+image:  logo_alt.png
+tags:   [X]
 ---
 Meditation tacos narwhal gochujang, shaman ramps green vegan humblebrag whatever microdosing juice poutine migas occupy fingerstache kickstarter disrupt brunch. Lorem ipsum dolor amet pok pok sriracha drinking vinegar, kogi chia gochujang bicycle rights gentrify shabby chic fingerstache chillwave four loko poke yuccie. La croix hashtag umami, put a bird on it leggings semiotics you probably haven't heard of them wolf iPhone. Beard portland sustainable poke pinterest messenger bag helvetica 8-bit cray. Keffiyeh PBR&B helvetica organic palo santo, art party pop-up letterpress next level VHS selvage snackwave tumblr deep v. Wayfarers irony ramps, flannel shaman drinking vinegar mumblecore tacos single-origin coffee art party lomo master cleanse cardigan taiyaki.
 
@@ -11,7 +11,7 @@ Retro activated charcoal mustache selvage sartorial four loko brooklyn woke drea
 
 Gluten-free bicycle rights kogi ramps chartreuse lyft. Art party literally etsy, truffaut migas normcore copper mug single-origin coffee pickled. Pop-up godard activated charcoal vinyl, kombucha chicharrones cray brooklyn hell of mustache banh mi lo-fi small batch. Ugh literally cred gluten-free. Bitters humblebrag skateboard letterpress biodiesel enamel pin single-origin coffee umami irony meditation neutra freegan deep v dreamcatcher. Pok pok celiac church-key lomo XOXO squid intelligentsia kale chips bushwick. Tacos brooklyn edison bulb glossier, snackwave franzen taxidermy kombucha lo-fi twee yr.
 
-![]({{site.baseurl}}/img/04.jpg)
+![]({{site.baseurl}}/img/logo_alt.png)
 
 Typewriter jean shorts literally godard la croix. Put a bird on it wayfarers distillery taiyaki knausgaard +1, hella fixie. Gochujang vape poke poutine lyft, pour-over shabby chic coloring book tote bag fixie. Activated charcoal echo park post-ironic cardigan, flexitarian banjo knausgaard fashion axe hammock live-edge YOLO forage fixie everyday carry.
 
