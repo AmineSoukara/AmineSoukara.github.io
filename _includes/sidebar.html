@@ -26,33 +26,43 @@
   <div class="widget widget-social">
     <h3 class="widget-title">Subscribe & Follow</h3>
     <ul class="social-profiles list-reset">
-      {% if site.facebook %}
-      <li class="social-profiles-item">
-        <a href="{{ site.facebook }}" class="social-profiles-link"><i class="ion ion-logo-facebook"></i></a>
-      </li>
-      {% else %} {% endif %}
-
-       {% if site.twitter %}
-      <li class="social-profiles-item">
-        <a href="{{ site.twitter }}" class="social-profiles-link"><i class="ion ion-logo-twitter"></i></a>
-      </li>
-      {% else %} {% endif %}
-
+      
       {% if site.instagram %}
       <li class="social-profiles-item">
-        <a href="{{ site.instagram }}" class="social-profiles-link"><i class="ion ion-logo-instagram"></i></a>
+        <a href="{{ site.instagram }}" target="_blank" class="social-profiles-link">
+          <img style="height:30px" src="{{site.baseurl}}/img/logo/instagram.ico" />
+        </a>
       </li>
       {% else %} {% endif %}
 
-      {% if site.pinterest %}
+      {% if site.facebook %}
       <li class="social-profiles-item">
-        <a href="{{ site.pinterest }}" class="social-profiles-link"><i class="ion ion-logo-pinterest"></i></a>
+        <a href="{{ site.facebook }}" target="_blank" class="social-profiles-link">
+          <img style="height:30px" src="{{site.baseurl}}/img/logo/facebook.ico" />
+        </a>
       </li>
       {% else %} {% endif %}
+      
+      {% if site.twitter %}
+      <li class="social-profiles-item">
+        <a href="{{ site.twitter }}" target="_blank" class="social-profiles-link">
+          <img style="height:30px" src="{{site.baseurl}}/img/logo/twitter.ico" />
+        </a>
+      </li>
+      {% else %} {% endif %}
+      
+      {% if site.telegram %}
+      <li class="social-profiles-item">
+        <a href="{{ site.telegram }}" target="_blank" class="social-profiles-link">
+          <img style="height:18px" src="{{site.baseurl}}/img/logo/telegram.png" />
+        </a>
+      </li>
+      {% else %} {% endif %}
+      
     </ul>
   </div>
 
-  <div class="widget widget-newsletter">
+<!--   <div class="widget widget-newsletter">
     <h3 class="widget-title">Newsletter</h3>
     <div class="newsletter-subtitle">Get Interesting News</div>
     <div class="newsletter-text">Receive the latest news via email.</div>
@@ -67,14 +77,14 @@
         <input class="newsletter-button" id="mc-embedded-subscribe" type="submit" name="subscribe" value="Subscribe">
       </div>
     </form>
-  </div>
+  </div> -->
 
   {% if site.instafeed == true %}
   <div class="widget widget-instagram">
     <h3 class="widget-title">Instagram</h3>
     <div class="instagram-box">
       <ul id="instafeed" class="instagram-grid list-reset clearfix"></ul>
-      <a class="instagram-prof" href="#">&#64;liar</a>
+      <a class="instagram-prof" href="https://www.veryins.com/daysi_abc">&#64;daysi_abc</a>
     </div>
   </div>
   {% endif %}
