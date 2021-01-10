@@ -58,6 +58,38 @@
         </a>
       </li>
       {% else %} {% endif %}
+
+      {% if site.whatsapp %}
+      <li class="social-profiles-item">
+        <a href="{{ site.whatsapp }}" target="_blank" class="social-profiles-link">
+          <img style="height:30px" src="{{site.baseurl}}/img/logo/whatsapp.ico" />
+        </a>
+      </li>
+      {% else %} {% endif %}
+
+      {% if site.snapchat %}
+      <li class="social-profiles-item">
+        <a href="{{ site.snapchat }}" target="_blank" class="social-profiles-link">
+          <img style="height:30px" src="{{site.baseurl}}/img/logo/snap.ico" />
+        </a>
+      </li>
+      {% else %} {% endif %}
+      
+      {% if site.github %}
+      <li class="social-profiles-item">
+        <a href="{{ site.github }}" target="_blank" class="social-profiles-link">
+          <img style="height:30px" src="{{site.baseurl}}/img/logo/github.ico" />
+        </a>
+      </li>
+      {% else %} {% endif %}
+      
+      {% if site.youtube %}
+      <li class="social-profiles-item">
+        <a href="{{ site.youtube }}" target="_blank" class="social-profiles-link">
+          <img style="height:30px" src="{{site.baseurl}}/img/logo/youtube.ico" />
+        </a>
+      </li>
+      {% else %} {% endif %}
       
     </ul>
   </div>
