@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Damien | Made it
-description: "Боль неизбежна. Страдание необязательно". # this  .... "baseurl:"
+description: Боль неизбежна. Страдание необязательно
 baseurl: "/AmineSoukara.github.io" # the subpath of your site, e.g. /blog
 url: "https://AmineSoukara.me" # the base hostname & protocol for your site, e.g. http://example.com
 
